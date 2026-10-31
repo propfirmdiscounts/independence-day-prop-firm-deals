@@ -1,0 +1,12 @@
+# Independence Day Prop Firm Deals
+
+This dataset tracks every Independence Day deal published on PropFirmDiscount.com by a
+prop firm carrying a verified discount code.
+
+Deals tracked: 11 across 11 firms. Newest deal: 2026-07-04.
+Every deal row carries that firm's discount code, which works any time.
+
+Event page: https://propfirmdiscount.com/tag/independence-day/
+Event dataset: https://propfirmdiscount.com/api/prop-firm-events/
+Deal rows for this event: https://github.com/propfirmdiscounts/independence-day-prop-firm-deals
+All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
