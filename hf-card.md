@@ -21,13 +21,13 @@ tags:
 
 As of 2026-07-04, 11 Independence Day deals from 11 prop firms are tracked, 11 of them published in the 2026 season. Every firm below carries a verified discount code that works any time.
 
-The biggest verified Independence Day discount codes in the 2026 season are 90% OFF with code PFD at Phidias Propfirm, 65% OFF with code PFD at Funded Hero Futures, 62% OFF with code PFD at Funded Hero, 35% OFF with code CSV at Goat Funded Trader, and 25% OFF with code JACKICHUN at Finotive Funding.
+The biggest verified Independence Day discount codes in the 2026 season are 80% OFF with code PFD at Phidias Propfirm, 65% OFF with code PFD at Funded Hero Futures, 62% OFF with code PFD at Funded Hero, 35% OFF with code CSV at Goat Funded Trader, and 25% OFF with code JACKICHUN at Finotive Funding.
 
 ## Prop Firms with the Highest Discount Codes in Independence Day 2026
 
 | # | Prop firm | Exclusive code | Code discount (Current) | Latest Independence Day deal | Deal discount | Expires | Firm page |
 |---|---|---|---|---|---|---|---|
-| 1 | Phidias Propfirm | PFD | 90% | 50K Fundamental for $95 and Up to 80% Off Challenge Pricing | 80% off | Ended | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
+| 1 | Phidias Propfirm | PFD | 80% | 50K Fundamental for $95 and Up to 80% Off Challenge Pricing | 80% off | Ended | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
 | 2 | Funded Hero Futures | PFD | 65% | Save 70% on Upfront Entry Cost Across All Trading Challenges | 70% off | Ended | https://propfirmdiscount.com/prop-firm/funded-hero-futures/ |
 | 3 | Funded Hero | PFD | 62% | 65% Off All Challenge Accounts Overview | 65% off | Ended | https://propfirmdiscount.com/prop-firm/funded-hero/ |
 | 4 | Goat Funded Trader | CSV | 35% | 50% Off All Challenge Pricing | 50% off | Ended | https://propfirmdiscount.com/prop-firm/goat-funded-trader/ |
@@ -58,11 +58,11 @@ The newest is **Independence Day Offer: Buy 1 Get Up to 4 Accounts** from CK Pro
 
 **Do these firms have discount codes?**
 
-Yes. Every one of the 11 firms listed here carries a verified discount code that works any time, with no start date and no end date. The biggest is 90% off with code PFD at Phidias Propfirm. The code is separate from the Independence Day offer itself: the offer belongs to the campaign, the code works whatever the season.
+Yes. Every one of the 11 firms listed here carries a verified discount code that works any time, with no start date and no end date. The biggest is 80% off with code PFD at Phidias Propfirm. The code is separate from the Independence Day offer itself: the offer belongs to the campaign, the code works whatever the season.
 
 **How much is off?**
 
-The newest deal is Buy 1 Get 1. Standing discount codes among these firms run up to 90% off, and every deal in the history below states its own figure.
+The newest deal is Buy 1 Get 1. Standing discount codes among these firms run up to 80% off, and every deal in the history below states its own figure.
 
 ---
 
