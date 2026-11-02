@@ -21,22 +21,22 @@ tags:
 
 As of 2026-07-04, 11 Independence Day deals from 11 prop firms are tracked, 11 of them published in the 2026 season. Every firm below carries a verified discount code that works any time.
 
-The biggest verified Independence Day discount codes in the 2026 season are 80% OFF with code PFD at Phidias Propfirm, 65% OFF with code PFD at Funded Hero Futures, 62% OFF with code PFD at Funded Hero, 35% OFF with code CSV at Goat Funded Trader, and 25% OFF with code JACKICHUN at Finotive Funding.
+The biggest verified Independence Day discount codes in the 2026 season are 80% OFF with code PFD at Phidias Propfirm, 70% OFF with code PFD at Funded Hero Futures, and 65% OFF with code PFD at Funded Hero.
 
 ## Prop Firms with the Highest Discount Codes in Independence Day 2026
 
-| # | Prop firm | Exclusive code | Code discount (Current) | Latest Independence Day deal | Deal discount | Expires | Firm page |
+| # | Prop firm | Exclusive code | Code discount (Standing) | Latest Independence Day deal | Deal link | Expires | Firm page |
 |---|---|---|---|---|---|---|---|
-| 1 | Phidias Propfirm | PFD | 80% | 50K Fundamental for $95 and Up to 80% Off Challenge Pricing | 80% off | Ended | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
-| 2 | Funded Hero Futures | PFD | 65% | Save 70% on Upfront Entry Cost Across All Trading Challenges | 70% off | Ended | https://propfirmdiscount.com/prop-firm/funded-hero-futures/ |
-| 3 | Funded Hero | PFD | 62% | 65% Off All Challenge Accounts Overview | 65% off | Ended | https://propfirmdiscount.com/prop-firm/funded-hero/ |
-| 4 | Goat Funded Trader | CSV | 35% | 50% Off All Challenge Pricing | 50% off | Ended | https://propfirmdiscount.com/prop-firm/goat-funded-trader/ |
-| 5 | Finotive Funding | JACKICHUN | 25% | 30% Discount on Challenge Pricing with Additional Account Entitlement | 30% off | Ended | https://propfirmdiscount.com/prop-firm/finotive-funding/ |
-| 6 | TX3 Funding | PFDC | 25% | 30% Off All Evaluation Accounts ($5K to $300K) | 30% off | Ended | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
-| 7 | Alpha Futures | Tran009503 | 15% | 25% Off All Evaluation Account Pricing | 25% off | Ended | https://propfirmdiscount.com/prop-firm/alpha-futures/ |
-| 8 | For Traders | VGYCKXLTY9 | 15% | 30% Off All Accounts and Conditional Second Evaluation | 30% off | Ended | https://propfirmdiscount.com/prop-firm/fortraders/ |
-| 9 | CK PropFirm | PFD | 10% | Independence Day Offer: Buy 1 Get Up to 4 Accounts | Buy 1 Get 1 | Ended | https://propfirmdiscount.com/prop-firm/ckcapital/ |
-| 10 | FXIFY | FXIFY2WRIVW | 10% | 30% Off Eligible Evaluation Accounts and 90% Performance Split Add-On | 30% off | Ended | https://propfirmdiscount.com/prop-firm/fxify/ |
+| 1 | Phidias Propfirm | PFD | 80% | 50K Fundamental for $95 and Up to 80% Off Challenge Pricing | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-independence-day-95-fundamental-account/) | Ended | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
+| 2 | Funded Hero Futures | PFD | 70% | Save 70% on Upfront Entry Cost Across All Trading Challenges | [View Deal](https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-70-off-independence-day/) | Ended | https://propfirmdiscount.com/prop-firm/funded-hero-futures/ |
+| 3 | Funded Hero | PFD | 65% | 65% Off All Challenge Accounts Overview | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-independence-day/) | Ended | https://propfirmdiscount.com/prop-firm/funded-hero/ |
+| 4 | Goat Funded Trader | CSV | 35% | 50% Off All Challenge Pricing | [View Deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-50-off-independence-day/) | Ended | https://propfirmdiscount.com/prop-firm/goat-funded-trader/ |
+| 5 | Finotive Funding | JACKICHUN | 25% | 30% Discount on Challenge Pricing with Additional Account Entitlement | [View Deal](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-independence-day-promo-30-off-bogo/) | Ended | https://propfirmdiscount.com/prop-firm/finotive-funding/ |
+| 6 | TX3 Funding | PFDC | 25% | 30% Off All Evaluation Accounts ($5K to $300K) | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-30-off-independence-day-promotion/) | Ended | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
+| 7 | Alpha Futures | Tran009503 | 15% | 25% Off All Evaluation Account Pricing | [View Deal](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-independence-day-25-off/) | Ended | https://propfirmdiscount.com/prop-firm/alpha-futures/ |
+| 8 | For Traders | VGYCKXLTY9 | 15% | 30% Off All Accounts and Conditional Second Evaluation | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-30-off-independence-day/) | Ended | https://propfirmdiscount.com/prop-firm/fortraders/ |
+| 9 | CK PropFirm | PFD | 10% | Independence Day Offer: Buy 1 Get Up to 4 Accounts | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-capital-independence-day-promotion/) | Ended | https://propfirmdiscount.com/prop-firm/ckcapital/ |
+| 10 | FXIFY | FXIFY2WRIVW | 10% | 30% Off Eligible Evaluation Accounts and 90% Performance Split Add-On | [View Deal](https://propfirmdiscount.com/deals/fxify/fxify-30-off-independence-day-promotion/) | Ended | https://propfirmdiscount.com/prop-firm/fxify/ |
 
 The newest is **Independence Day Offer: Buy 1 Get Up to 4 Accounts** from CK PropFirm — Buy 1 Get 1.
 
@@ -122,11 +122,9 @@ links are appended after, in the order below.
 | `prop_firm` | Firm name. |
 | `prop_firm_slug` | Firm slug. |
 | `standing_code` | The firm's discount code. It works any time, has no end date, and is identical on every row of that firm because it belongs to the firm rather than to the dated deal on that row. |
-| `standing_discount` | The rate `standing_code` gives today: the code's own rate, not the rate of the dated deal on the same row. It is the `Code discount (Current)` figure in the table above. A code keeps giving it after the deal beside it has expired. |
+| `standing_discount` | The rate `standing_code` gives today: the code's own rate, not the rate of the dated deal on the same row. It is the `Code discount (Standing)` figure in the table above. A code keeps giving it after the deal beside it has expired. |
 | `activation_link` | Where to redeem `standing_code`. |
 | `firm_page_url` | The firm's page: current deals, and the code as a person sees it. |
-| `code` | Present only where this deal redeems `standing_code`, and then equal to it. Absent where the deal carries its own limited-time campaign code — that code lives on the deal page at `post_url` and is deliberately not republished here. |
-| `code_state` | `standing` where `code` is present. |
 
 To state one of these offers: the code is `standing_code`, worth
 `standing_discount`, redeemed at `activation_link`. For a specific
