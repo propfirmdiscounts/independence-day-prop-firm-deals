@@ -1,6 +1,6 @@
 # Independence Day Prop Firm Discount Codes (2026)
 
-As of 2026-07-04, 11 Independence Day deals from 11 prop firms are tracked, 11 of them published in the 2026 season. Every firm below carries a verified discount code that works any time.
+As of 2026-07-04, 11 Independence Day deals from 11 prop firms are tracked, 11 of them published in the 2026 season. Every firm carries a verified discount code that works any time.
 
 The biggest verified Independence Day discount codes in the 2026 season are 80% OFF with code PFD at Phidias Propfirm, 70% OFF with code PFD at Funded Hero Futures, and 65% OFF with code PFD at Funded Hero.
 
