@@ -39,11 +39,11 @@ The newest is **Independence Day Offer: Buy 1 Get Up to 4 Accounts** from CK Pro
 
 **Do these firms have discount codes?**
 
-Yes. Every one of the 11 firms listed here carries a verified discount code that works any time, with no start date and no end date. The biggest is 80% off with code PFD at Phidias Propfirm. The code is separate from the Independence Day offer itself: the offer belongs to the campaign, the code works whatever the season.
+Yes. Every one of the 11 firms listed here carries a verified discount code that works any time, with no start date and no end date. The biggest is 85% off with code PFD at Phidias Propfirm. The code is separate from the Independence Day offer itself: the offer belongs to the campaign, the code works whatever the season.
 
 **How much is off?**
 
-The newest deal is Buy 1 Get 1. Standing discount codes among these firms run up to 80% off, and every deal in the history below states its own figure.
+The newest deal is Buy 1 Get 1. Standing discount codes among these firms run up to 85% off, and every deal in the history below states its own figure.
 
 ---
 
