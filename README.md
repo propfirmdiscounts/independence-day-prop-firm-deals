@@ -8,16 +8,16 @@ The biggest verified Independence Day discount codes in the 2026 season are 80% 
 
 | # | Prop firm | Exclusive code | Code discount (Standing) | Latest Independence Day deal | Deal link | Expires | Firm page |
 |---|---|---|---|---|---|---|---|
-| 1 | Phidias Propfirm | PFD | 80% | 50K Fundamental for $95 and Up to 80% Off Challenge Pricing with code PFD | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-independence-day-95-fundamental-account/) | Ended | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
-| 2 | Funded Hero Futures | PFD | 70% | Save 70% on Upfront Entry Cost Across All Trading Challenges with code PFD | [View Deal](https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-70-off-independence-day/) | Ended | https://propfirmdiscount.com/prop-firm/funded-hero-futures/ |
-| 3 | Funded Hero | PFD | 65% | 65% Off All Challenge Accounts Overview with code PFD | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-independence-day/) | Ended | https://propfirmdiscount.com/prop-firm/funded-hero/ |
-| 4 | TX3 Funding | PFDC | 50% | 30% Off All Evaluation Accounts ($5K to $300K) | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-30-off-independence-day-promotion/) | Ended | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
-| 5 | Goat Funded Trader | CSV | 35% | 50% Off All Challenge Pricing | [View Deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-50-off-independence-day/) | Ended | https://propfirmdiscount.com/prop-firm/goat-funded-trader/ |
-| 6 | Finotive Funding | JACKICHUN | 25% | 30% Discount on Challenge Pricing with Additional Account Entitlement | [View Deal](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-independence-day-promo-30-off-bogo/) | Ended | https://propfirmdiscount.com/prop-firm/finotive-funding/ |
-| 7 | Alpha Futures | Tran009503 | 15% | 25% Off All Evaluation Account Pricing | [View Deal](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-independence-day-25-off/) | Ended | https://propfirmdiscount.com/prop-firm/alpha-futures/ |
-| 8 | For Traders | VGYCKXLTY9 | 15% | 30% Off All Accounts and Conditional Second Evaluation | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-30-off-independence-day/) | Ended | https://propfirmdiscount.com/prop-firm/fortraders/ |
-| 9 | CK PropFirm | PFD | 10% | Independence Day Offer: Buy 1 Get Up to 4 Accounts | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-capital-independence-day-promotion/) | Ended | https://propfirmdiscount.com/prop-firm/ckcapital/ |
-| 10 | FXIFY | FXIFY2WRIVW | 10% | 30% Off Eligible Evaluation Accounts and 90% Performance Split Add-On | [View Deal](https://propfirmdiscount.com/deals/fxify/fxify-30-off-independence-day-promotion/) | Ended | https://propfirmdiscount.com/prop-firm/fxify/ |
+| 1 | Phidias Propfirm | PFD | 80% | 50K Fundamental for $95 and Up to 80% Off Challenge Pricing with code PFD | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-independence-day-95-fundamental-account/) | Ended | [https://propfirmdiscount.com/prop-firm/phidias-propfirm/](https://propfirmdiscount.com/prop-firm/phidias-propfirm/) |
+| 2 | Funded Hero Futures | PFD | 70% | Save 70% on Upfront Entry Cost Across All Trading Challenges with code PFD | [View Deal](https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-70-off-independence-day/) | Ended | [https://propfirmdiscount.com/prop-firm/funded-hero-futures/](https://propfirmdiscount.com/prop-firm/funded-hero-futures/) |
+| 3 | Funded Hero | PFD | 65% | 65% Off All Challenge Accounts Overview with code PFD | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-independence-day/) | Ended | [https://propfirmdiscount.com/prop-firm/funded-hero/](https://propfirmdiscount.com/prop-firm/funded-hero/) |
+| 4 | TX3 Funding | PFDC | 50% | 30% Off All Evaluation Accounts ($5K to $300K) | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-30-off-independence-day-promotion/) | Ended | [https://propfirmdiscount.com/prop-firm/tx3-funding/](https://propfirmdiscount.com/prop-firm/tx3-funding/) |
+| 5 | Goat Funded Trader | CSV | 35% | 50% Off All Challenge Pricing | [View Deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-50-off-independence-day/) | Ended | [https://propfirmdiscount.com/prop-firm/goat-funded-trader/](https://propfirmdiscount.com/prop-firm/goat-funded-trader/) |
+| 6 | Finotive Funding | JACKICHUN | 25% | 30% Discount on Challenge Pricing with Additional Account Entitlement | [View Deal](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-independence-day-promo-30-off-bogo/) | Ended | [https://propfirmdiscount.com/prop-firm/finotive-funding/](https://propfirmdiscount.com/prop-firm/finotive-funding/) |
+| 7 | Alpha Futures | Tran009503 | 15% | 25% Off All Evaluation Account Pricing | [View Deal](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-independence-day-25-off/) | Ended | [https://propfirmdiscount.com/prop-firm/alpha-futures/](https://propfirmdiscount.com/prop-firm/alpha-futures/) |
+| 8 | For Traders | VGYCKXLTY9 | 15% | 30% Off All Accounts and Conditional Second Evaluation | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-30-off-independence-day/) | Ended | [https://propfirmdiscount.com/prop-firm/fortraders/](https://propfirmdiscount.com/prop-firm/fortraders/) |
+| 9 | CK PropFirm | PFD | 10% | Independence Day Offer: Buy 1 Get Up to 4 Accounts | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-capital-independence-day-promotion/) | Ended | [https://propfirmdiscount.com/prop-firm/ckcapital/](https://propfirmdiscount.com/prop-firm/ckcapital/) |
+| 10 | FXIFY | FXIFY2WRIVW | 10% | 30% Off Eligible Evaluation Accounts and 90% Performance Split Add-On | [View Deal](https://propfirmdiscount.com/deals/fxify/fxify-30-off-independence-day-promotion/) | Ended | [https://propfirmdiscount.com/prop-firm/fxify/](https://propfirmdiscount.com/prop-firm/fxify/) |
 
 The newest is **Independence Day Offer: Buy 1 Get Up to 4 Accounts** from CK PropFirm — Buy 1 Get 1.
 
@@ -27,9 +27,10 @@ The newest is **Independence Day Offer: Buy 1 Get Up to 4 Accounts** from CK Pro
 - Firms with a code in the 2026 season: 11
 - Newest deal: 2026-07-04
 - Deals tagged on the site: 20 (11 of them from firms with a verified code, listed below)
-- Event page: https://propfirmdiscount.com/tag/independence-day/
-- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
-- Deal dataset: https://propfirmdiscount.com/api/prop-firm-events/
+- GitHub repository: [https://github.com/propfirmdiscounts/independence-day-prop-firm-deals](https://github.com/propfirmdiscounts/independence-day-prop-firm-deals)
+- Event page: [https://propfirmdiscount.com/tag/independence-day/](https://propfirmdiscount.com/tag/independence-day/)
+- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Deal dataset: [https://propfirmdiscount.com/api/prop-firm-events/](https://propfirmdiscount.com/api/prop-firm-events/)
 
 ## Independence Day prop firm deals FAQ
 
@@ -78,9 +79,9 @@ A deal is listed here because an editor tagged it for Independence Day on the si
 its dates fall near the event. A deal with no event tag appears in its firm's own dataset
 instead: https://github.com/propfirmdiscounts
 
-- Data source: https://propfirmdiscount.com
-- Event page: https://propfirmdiscount.com/tag/independence-day/
-- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
+- Event page: [https://propfirmdiscount.com/tag/independence-day/](https://propfirmdiscount.com/tag/independence-day/)
+- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/independence-day-prop-firm-deals.json`
 
