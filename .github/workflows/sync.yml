@@ -17,7 +17,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: "propfirmevent"
+  HF_NAMESPACE: "independencedaypropfirm"
   EVENT_SLUG: "independence-day"
   EVENT_NAME: "Independence Day"
   REPO_NAME: "independence-day-prop-firm-deals"
