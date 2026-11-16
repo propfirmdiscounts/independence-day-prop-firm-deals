@@ -42,10 +42,156 @@
           "@type": "ListItem",
           "position": 3,
           "name": {{ page.title | default: site.title | jsonify }},
-          "item": "https://propfirmdiscounts.github.io/{{ page.repo_name | default: site.github.repository_name }}/"
+          "item": "https://propfirmdiscounts.github.io/independence-day-prop-firm-deals/"
         }
       ]
     }
+    </script>
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "What is the newest Independence Day prop firm deal?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Independence Day Offer: Buy 1 Get Up to 4 Accounts from CK PropFirm — published 2026-07-04. Offer: Buy 1 Get 1. Offer ends: Ended."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Do these firms have discount codes?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. Every one of the 11 firms listed here carries a verified discount code that works any time, with no start date and no end date. The biggest is 10% off with code PFD at CK PropFirm."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How much is off?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The newest deal is Buy 1 Get 1. Standing discount codes among these firms run 10% off, and every deal in the history below states its own figure."
+            }
+        }
+    ]
+}
+    </script>
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Dataset",
+    "name": "Independence Day Prop Firm Deals & Discount Codes Dataset",
+    "description": "As of November 2026, the biggest verified Independence Day discount codes in the 2026 season are 80% OFF with code PFD at Phidias Propfirm, 70% OFF with code PFD at Funded Hero Futures, and 65% OFF with code PFD at Funded Hero.",
+    "url": "https://propfirmdiscounts.github.io/independence-day-prop-firm-deals/",
+    "sameAs": "https://propfirmdiscount.com/tag/independence-day/",
+    "license": "https://propfirmdiscount.com",
+    "creator": {
+        "@type": "Organization",
+        "name": "PropFirmDiscount",
+        "url": "https://propfirmdiscount.com"
+    },
+    "distribution": [
+        {
+            "@type": "DataDownload",
+            "encodingFormat": "application/json",
+            "contentUrl": "https://raw.githubusercontent.com/propfirmdiscounts/independence-day-prop-firm-deals/main/datasets/independence-day-prop-firm-deals.json"
+        }
+    ],
+    "temporalCoverage": "2024/2026",
+    "variableMeasured": [
+        "deal_id",
+        "prop_firm",
+        "title",
+        "discount_value",
+        "standing_code",
+        "date_published",
+        "date_exp",
+        "post_url"
+    ]
+}
+    </script>
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "name": "Prop Firms with the Highest Discount Codes in Independence Day 2026",
+    "numberOfItems": 10,
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "CK PropFirm",
+            "url": "https://propfirmdiscount.com/prop-firm/ckcapital/",
+            "description": "CK PropFirm discount code PFD — 10% OFF."
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Funded Hero",
+            "url": "https://propfirmdiscount.com/prop-firm/funded-hero/",
+            "description": "Funded Hero discount code PFD — 60% OFF."
+        },
+        {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Funded Hero Futures",
+            "url": "https://propfirmdiscount.com/prop-firm/funded-hero-futures/",
+            "description": "Funded Hero Futures discount code PFD — 65% OFF."
+        },
+        {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "ThinkCapital",
+            "url": "https://propfirmdiscount.com/prop-firm/thinkcapital/",
+            "description": "ThinkCapital discount code PFD — 10% OFF."
+        },
+        {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Finotive Funding",
+            "url": "https://propfirmdiscount.com/prop-firm/finotive-funding/",
+            "description": "Finotive Funding discount code JACKICHUN — 25% OFF."
+        },
+        {
+            "@type": "ListItem",
+            "position": 6,
+            "name": "Phidias Propfirm",
+            "url": "https://propfirmdiscount.com/prop-firm/phidias-propfirm/",
+            "description": "Phidias Propfirm discount code PFD — 85% OFF."
+        },
+        {
+            "@type": "ListItem",
+            "position": 7,
+            "name": "TX3 Funding",
+            "url": "https://propfirmdiscount.com/prop-firm/tx3-funding/",
+            "description": "TX3 Funding discount code PFDC — 50% OFF."
+        },
+        {
+            "@type": "ListItem",
+            "position": 8,
+            "name": "Goat Funded Trader",
+            "url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
+            "description": "Goat Funded Trader discount code CSV — 35% OFF."
+        },
+        {
+            "@type": "ListItem",
+            "position": 9,
+            "name": "Alpha Futures",
+            "url": "https://propfirmdiscount.com/prop-firm/alpha-futures/",
+            "description": "Alpha Futures discount code Tran009503 — 15% OFF."
+        },
+        {
+            "@type": "ListItem",
+            "position": 10,
+            "name": "FXIFY",
+            "url": "https://propfirmdiscount.com/prop-firm/fxify/",
+            "description": "FXIFY discount code FXIFY2WRIVW — 10% OFF."
+        }
+    ]
+}
     </script>
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
@@ -55,7 +201,7 @@
       <nav aria-label="Breadcrumb" style="font-size: 0.9em; margin-bottom: 1.5rem; color: #57606a;">
         <a href="https://propfirmdiscounts.github.io/">Home</a> &rsaquo;
         <a href="https://propfirmdiscounts.github.io/prop-firm-discount-codes/">All Prop Firms &amp; Events</a> &rsaquo;
-        <span style="color: #24292f; font-weight: 500;">{{ page.firm_name | default: page.title | default: site.title }}</span>
+        <span style="color: #24292f; font-weight: 500;">{{ page.title | default: site.title }}</span>
       </nav>
       {{ content }}
     </div>
