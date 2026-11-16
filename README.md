@@ -1,10 +1,10 @@
-# Independence Day Prop Firm Discount Codes (2026)
+# Independence Day Prop Firm Deals & Discount Codes (2026)
 
-This Independence Day, 11 deals from 11 prop firms are tracked, with 11 published during the 2026 season. Every firm carries a verified discount code that works year-round.
+Explore Independence Day prop firm deals and discount codes from 11 proprietary trading firms, with 11 historical promotions tracked across multiple seasons. Compare campaign-specific discounts, promotional codes, and other offers, while checking each firm's standing discount code separately. Every listing includes its recorded discount, publication date, expiration information, and a link to the original deal.
 
 As of November 2026, the biggest verified Independence Day discount codes in the 2026 season are 80% OFF with code PFD at Phidias Propfirm, 70% OFF with code PFD at Funded Hero Futures, and 65% OFF with code PFD at Funded Hero.
 
-## Prop Firms with the Highest Discount Codes in Independence Day 2026
+## Prop Firms with the Highest Independence Day Discounts 2026
 
 | # | Prop firm | Exclusive code | Code discount (Standing) | Latest Independence Day deal | Deal link | Expires | Firm page |
 |---|---|---|---|---|---|---|---|
@@ -13,26 +13,29 @@ As of November 2026, the biggest verified Independence Day discount codes in the
 | 3 | Funded Hero | PFD | 65% | 65% Off All Challenge Accounts Overview with code PFD | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-independence-day/) | Ended | [Funded Hero Page](https://propfirmdiscount.com/prop-firm/funded-hero/) |
 | 4 | TX3 Funding | PFDC | 50% | 30% Off All Evaluation Accounts ($5K to $300K) | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-30-off-independence-day-promotion/) | Ended | [TX3 Funding Page](https://propfirmdiscount.com/prop-firm/tx3-funding/) |
 | 5 | Goat Funded Trader | CSV | 35% | 50% Off All Challenge Pricing | [View Deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-50-off-independence-day/) | Ended | [Goat Funded Trader Page](https://propfirmdiscount.com/prop-firm/goat-funded-trader/) |
-| 6 | Finotive Funding | JACKICHUN | 25% | 30% Discount on Challenge Pricing with Additional Account Entitlement | [View Deal](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-independence-day-promo-30-off-bogo/) | Ended | [Finotive Funding Page](https://propfirmdiscount.com/prop-firm/finotive-funding/) |
+| 6 | Finotive Funding | PFDC | 25% | 30% Discount on Challenge Pricing with Additional Account Entitlement | [View Deal](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-independence-day-promo-30-off-bogo/) | Ended | [Finotive Funding Page](https://propfirmdiscount.com/prop-firm/finotive-funding/) |
 | 7 | Alpha Futures | Tran009503 | 15% | 25% Off All Evaluation Account Pricing | [View Deal](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-independence-day-25-off/) | Ended | [Alpha Futures Page](https://propfirmdiscount.com/prop-firm/alpha-futures/) |
 | 8 | For Traders | VGYCKXLTY9 | 15% | 30% Off All Accounts and Conditional Second Evaluation | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-30-off-independence-day/) | Ended | [For Traders Page](https://propfirmdiscount.com/prop-firm/fortraders/) |
 | 9 | CK PropFirm | PFD | 10% | Independence Day Offer: Buy 1 Get Up to 4 Accounts | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-capital-independence-day-promotion/) | Ended | [CK PropFirm Page](https://propfirmdiscount.com/prop-firm/ckcapital/) |
 | 10 | FXIFY | FXIFY2WRIVW | 10% | 30% Off Eligible Evaluation Accounts and 90% Performance Split Add-On | [View Deal](https://propfirmdiscount.com/deals/fxify/fxify-30-off-independence-day-promotion/) | Ended | [FXIFY Page](https://propfirmdiscount.com/prop-firm/fxify/) |
 
-The newest is **Independence Day Offer: Buy 1 Get Up to 4 Accounts** from CK PropFirm — Buy 1 Get 1.
+The latest recorded Independence Day-tagged promotion is CK PropFirm offering Independence Day Offer: Buy 1 Get Up to 4 Accounts, published on July 4, 2026. The offer has since ended.
 
 - Event: Independence Day
-- Deals tracked: 11 (11 in 2026)
-- Firms: 11
+- Independence Day deals in this dataset: 11
+- Firms represented: 11
+- Deals published in 2026: 11
 - Firms with a code in the 2026 season: 11
 - Newest deal: 2026-07-04
-- Deals tagged on the site: 20 (11 of them from firms with a verified code, listed below)
 - GitHub repository: [Independence Day Deals Repository](https://github.com/propfirmdiscounts/independence-day-prop-firm-deals)
+- All Independence Day-tagged deals on the main site: 20 (11 of them from firms with a verified code, listed below)
 - Event page: [Independence Day Deals on PropFirmDiscount](https://propfirmdiscount.com/tag/independence-day/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Deal dataset: [Prop Firm Events API Record](https://propfirmdiscount.com/api/prop-firm-events/)
 
-## Independence Day prop firm deals FAQ
+This repository includes Independence Day-tagged deals from firms with a verified standing discount code. The main website may contain additional Independence Day-tagged promotions from firms that are not included in this dataset.
+
+## Independence Day Prop Firm Deals & Discount Codes FAQ
 
 **What is the newest Independence Day prop firm deal?**
 
@@ -48,11 +51,11 @@ The newest deal is Buy 1 Get 1. Standing discount codes among these firms run 85
 
 ---
 
-## Independence Day deal history
+## Independence Day Prop Firm Deal History
 
 Total deals tracked: **11**
 
-### 2026 (11 deals)
+### 2026 Independence Day Deals (11 deals)
 
 | Deal Date | Firm | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|---|
@@ -70,20 +73,19 @@ Total deals tracked: **11**
 
 ---
 
-## About this repository
+## About the Independence Day Prop Firm Deals Dataset
 
-This repository mirrors every **Independence Day** deal published on PropFirmDiscount.com by a
-firm carrying a verified discount code, regenerated from the live API.
+This dataset provides a historical record of Independence Day-tagged promotional deals published on PropFirmDiscount.com by proprietary trading firms with recorded standing discount codes. Each record preserves the campaign's original discount details, publication date, expiration information, and related firm data. The dataset is regenerated from the PropFirmDiscount API.
 
 A deal is listed here because an editor tagged it for Independence Day on the site, not because
 its dates fall near the event. A deal with no event tag appears in its firm's own dataset
-instead: https://github.com/propfirmdiscounts
+instead in the [PropFirmDiscount Repositories](https://github.com/propfirmdiscounts).
 
 - Data source: [PropFirmDiscount.com](https://propfirmdiscount.com)
 - Event page: [Independence Day Deals on PropFirmDiscount](https://propfirmdiscount.com/tag/independence-day/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Fields in `datasets/independence-day-prop-firm-deals.json`
+## Independence Day Prop Firm Deals Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the
@@ -113,13 +115,13 @@ To state one of these offers: the code is `standing_code`, worth
 promotion, `discount_value` and `date_exp` describe that deal, and
 `post_url` is its page.
 
-## Freshness
+## Data Freshness & Verification
 
 The deal history above is the source of truth for what changed and when.
 Standing codes are re-verified by the PropFirmDiscount team; campaign
 codes come and go with each promotion. The most recent deal date carried
 in this file is the `Newest deal` value above.
 
-## License
+## Data License
 
 Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).
