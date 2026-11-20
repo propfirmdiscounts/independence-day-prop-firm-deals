@@ -1,6 +1,6 @@
 # Independence Day Prop Firm Deals & Discount Codes (2026)
 
-Explore Independence Day prop firm deals and discount codes from 11 proprietary trading firms, with 11 historical promotions tracked across multiple seasons. Compare campaign-specific discounts, promotional codes, and other offers, while checking each firm's standing discount code separately. Every listing includes its recorded discount, publication date, expiration information, and a link to the original deal.
+Explore Independence Day prop firm deals and discount codes from 9 proprietary trading firms, with 9 historical promotions tracked across multiple seasons. Compare campaign-specific discounts, promotional codes, and other offers, while checking each firm's standing discount code separately. Every listing includes its recorded discount, publication date, expiration information, and a link to the original deal.
 
 As of November 2026, the biggest verified Independence Day discount codes in the 2026 season are 80% OFF with code PFD at Phidias Propfirm, 70% OFF with code PFD at Funded Hero Futures, and 65% OFF with code PFD at Funded Hero.
 
@@ -14,21 +14,20 @@ As of November 2026, the biggest verified Independence Day discount codes in the
 | 4 | Goat Funded Trader | CSV | 35% | 50% Off All Challenge Pricing | [View Deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-50-off-independence-day/) | Ended | [Goat Funded Trader Page](https://propfirmdiscount.com/prop-firm/goat-funded-trader/) |
 | 5 | Finotive Funding | PFDC | 25% | 30% Discount on Challenge Pricing with Additional Account Entitlement | [View Deal](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-independence-day-promo-30-off-bogo/) | Ended | [Finotive Funding Page](https://propfirmdiscount.com/prop-firm/finotive-funding/) |
 | 6 | TX3 Funding | PFD1 | 25% | 30% Off All Evaluation Accounts ($5K to $300K) | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-30-off-independence-day-promotion/) | Ended | [TX3 Funding Page](https://propfirmdiscount.com/prop-firm/tx3-funding/) |
-| 7 | Alpha Futures | Tran009503 | 15% | 25% Off All Evaluation Account Pricing | [View Deal](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-independence-day-25-off/) | Ended | [Alpha Futures Page](https://propfirmdiscount.com/prop-firm/alpha-futures/) |
-| 8 | For Traders | VGYCKXLTY9 | 15% | 30% Off All Accounts and Conditional Second Evaluation | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-30-off-independence-day/) | Ended | [For Traders Page](https://propfirmdiscount.com/prop-firm/fortraders/) |
-| 9 | CK PropFirm | PFD | 10% | Independence Day Offer: Buy 1 Get Up to 4 Accounts | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-capital-independence-day-promotion/) | Ended | [CK PropFirm Page](https://propfirmdiscount.com/prop-firm/ckcapital/) |
-| 10 | FXIFY | FXIFY2WRIVW | 10% | 30% Off Eligible Evaluation Accounts and 90% Performance Split Add-On | [View Deal](https://propfirmdiscount.com/deals/fxify/fxify-30-off-independence-day-promotion/) | Ended | [FXIFY Page](https://propfirmdiscount.com/prop-firm/fxify/) |
+| 7 | For Traders | VGYCKXLTY9 | 15% | 30% Off All Accounts and Conditional Second Evaluation | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-30-off-independence-day/) | Ended | [For Traders Page](https://propfirmdiscount.com/prop-firm/fortraders/) |
+| 8 | FXIFY | FXIFY2WRIVW | 10% | 30% Off Eligible Evaluation Accounts and 90% Performance Split Add-On | [View Deal](https://propfirmdiscount.com/deals/fxify/fxify-30-off-independence-day-promotion/) | Ended | [FXIFY Page](https://propfirmdiscount.com/prop-firm/fxify/) |
+| 9 | ThinkCapital | PFD | 10% | 20% Off $2,500 to $50,000 Accounts | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-20-off-independence-day/) | Ended | [ThinkCapital Page](https://propfirmdiscount.com/prop-firm/thinkcapital/) |
 
-The latest recorded Independence Day-tagged promotion is CK PropFirm offering Independence Day Offer: Buy 1 Get Up to 4 Accounts, published on July 4, 2026. The offer has since ended.
+The latest recorded Independence Day-tagged promotion is Funded Hero offering 65% Off All Challenge Accounts Overview with code PFD, published on July 3, 2026. The offer has since ended.
 
 - Event: Independence Day
-- Independence Day deals in this dataset: 11
-- Firms represented: 11
-- Deals published in 2026: 11
-- Firms with a code in the 2026 season: 11
-- Newest deal: 2026-07-04
+- Independence Day deals in this dataset: 9
+- Firms represented: 9
+- Deals published in 2026: 9
+- Firms with a code in the 2026 season: 9
+- Newest deal: 2026-07-03
 - GitHub repository: [Independence Day Deals Repository](https://github.com/propfirmdiscounts/independence-day-prop-firm-deals)
-- All Independence Day-tagged deals on the main site: 20 (11 of them from firms with a verified code, listed below)
+- All Independence Day-tagged deals on the main site: 20 (9 of them from firms with a verified code, listed below)
 - Event page: [Independence Day Deals on PropFirmDiscount](https://propfirmdiscount.com/tag/independence-day/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Deal dataset: [Prop Firm Events API Record](https://propfirmdiscount.com/api/prop-firm-events/)
@@ -39,27 +38,26 @@ This repository includes Independence Day-tagged deals from firms with a verifie
 
 **What is the newest Independence Day prop firm deal?**
 
-**Independence Day Offer: Buy 1 Get Up to 4 Accounts** from CK PropFirm — published 2026-07-04. Offer: Buy 1 Get 1. Offer has ended.
+**65% Off All Challenge Accounts Overview with code PFD** from Funded Hero — published 2026-07-03. Offer: 65% off. Offer has ended.
 
 **Do these firms have discount codes?**
 
-Yes. Every one of the 11 firms listed here carries a verified discount code that works any time, with no start date and no end date. The biggest is 85% off with code PFD at Phidias Propfirm. The code is separate from the Independence Day offer itself: the offer belongs to the campaign, the code works whatever the season.
+Yes. Every one of the 9 firms listed here carries a verified discount code that works any time, with no start date and no end date. The biggest is 85% off with code PFD at Phidias Propfirm. The code is separate from the Independence Day offer itself: the offer belongs to the campaign, the code works whatever the season.
 
 **How much is off?**
 
-The newest deal is Buy 1 Get 1. Standing discount codes among these firms run 85% off, and every deal in the history below states its own figure.
+The newest deal is 65% off. Standing discount codes among these firms run 85% off, and every deal in the history below states its own figure.
 
 ---
 
 ## Independence Day Prop Firm Deal History
 
-Total deals tracked: **11**
+Total deals tracked: **9**
 
-### 2026 Independence Day Deals (11 deals)
+### 2026 Independence Day Deals (9 deals)
 
 | Deal Date | Firm | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|---|
-| 2026-07-04 | CK PropFirm | CK PropFirm: Independence Day Offer: Buy 1 Get Up to 4 Accounts | Buy 1 Get 1 | Ended | Independence Day | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-capital-independence-day-promotion/) |
 | 2026-07-03 | Funded Hero | Funded Hero: 65% Off All Challenge Accounts Overview with code PFD | 65% off | Ended | Independence Day | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-independence-day/) |
 | 2026-07-03 | Funded Hero Futures | Funded Hero Futures: Save 70% on Upfront Entry Cost Across All Trading Challenges with code PFD | 70% off | Ended | Independence Day | [View Deal](https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-70-off-independence-day/) |
 | 2026-07-03 | ThinkCapital | ThinkCapital: 20% Off $2,500 to $50,000 Accounts | 20% off | Ended | Independence Day | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-20-off-independence-day/) |
@@ -67,7 +65,6 @@ Total deals tracked: **11**
 | 2026-07-03 | Phidias Propfirm | Phidias Propfirm: 50K Fundamental for $95 and Up to 80% Off Challenge Pricing with code PFD | 80% off | Ended | Independence Day | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-independence-day-95-fundamental-account/) |
 | 2026-07-03 | TX3 Funding | TX3 Funding: 30% Off All Evaluation Accounts ($5K to $300K) | 30% off | Ended | Independence Day | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-30-off-independence-day-promotion/) |
 | 2026-07-03 | Goat Funded Trader | Goat Funded Trader: 50% Off All Challenge Pricing | 50% off | Ended | Independence Day | [View Deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-50-off-independence-day/) |
-| 2026-07-01 | Alpha Futures | Alpha Futures: 25% Off All Evaluation Account Pricing | 25% off | Ended | Independence Day | [View Deal](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-independence-day-25-off/) |
 | 2026-07-01 | FXIFY | FXIFY: 30% Off Eligible Evaluation Accounts and 90% Performance Split Add-On | 30% off | Ended | Independence Day | [View Deal](https://propfirmdiscount.com/deals/fxify/fxify-30-off-independence-day-promotion/) |
 | 2026-07-01 | For Traders | For Traders: 30% Off All Accounts and Conditional Second Evaluation | 30% off | Ended | Independence Day | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-30-off-independence-day/) |
 

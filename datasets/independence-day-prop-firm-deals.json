@@ -1,25 +1,5 @@
 [
   {
-    "deal_id": 12290,
-    "prop_firm": "CK PropFirm",
-    "prop_firm_slug": "ckcapital",
-    "title": "Independence Day Offer: Buy 1 Get Up to 4 Accounts",
-    "event": "Independence Day",
-    "offer_type": "coupon",
-    "scope": [
-      "Evaluation Accounts"
-    ],
-    "discount_value": "Buy 1 Get 1",
-    "standing_code": "PFD",
-    "standing_discount": "10%",
-    "date_published": "2026-07-04",
-    "date_exp": "Ended",
-    "post_url": "https://propfirmdiscount.com/deals/ckcapital/ck-capital-independence-day-promotion/",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/ckcapital/",
-    "last_verified": "2026-07-04",
-    "activation_link": "https://propfirmdiscount.com/go/ckcapital"
-  },
-  {
     "deal_id": 12282,
     "prop_firm": "Funded Hero",
     "prop_firm_slug": "funded-hero",
@@ -158,26 +138,6 @@
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
     "last_verified": "2026-07-03",
     "activation_link": "https://propfirmdiscount.com/go/goatfunded"
-  },
-  {
-    "deal_id": 12766,
-    "prop_firm": "Alpha Futures",
-    "prop_firm_slug": "alpha-futures",
-    "title": "25% Off All Evaluation Account Pricing",
-    "event": "Independence Day",
-    "offer_type": "coupon",
-    "scope": [
-      "Any Account Plan, Evaluation"
-    ],
-    "discount_value": "25%",
-    "standing_code": "Tran009503",
-    "standing_discount": "15%",
-    "date_published": "2026-07-01",
-    "date_exp": "Ended",
-    "post_url": "https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-independence-day-25-off/",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/alpha-futures/",
-    "last_verified": "2026-07-01",
-    "activation_link": "https://propfirmdiscount.com/go/alphafutures"
   },
   {
     "deal_id": 12261,
