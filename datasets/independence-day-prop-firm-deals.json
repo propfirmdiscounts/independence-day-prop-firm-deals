@@ -123,7 +123,7 @@
     "deal_id": 12274,
     "prop_firm": "Goat Funded Trader",
     "prop_firm_slug": "goat-funded-trader",
-    "title": "50% Off All Challenge Pricing",
+    "title": "50% Off All Challenge Pricing (code CSV)",
     "event": "Independence Day",
     "offer_type": "coupon",
     "scope": [
@@ -131,7 +131,7 @@
     ],
     "discount_value": "50%",
     "standing_code": "CSV",
-    "standing_discount": "35%",
+    "standing_discount": "55%",
     "date_published": "2026-07-03",
     "date_exp": "Ended",
     "post_url": "https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-50-off-independence-day/",
